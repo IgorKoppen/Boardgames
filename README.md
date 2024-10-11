@@ -40,4 +40,4 @@ O **BoardGames App** é uma aplicação Android para gerenciar uma coleção de 
 
 ## Captura de Tela
 
-![Captura de Tela do App](screenshot.png)
+![Captura de Tela do App](gameScreenshot/ImagemDoJogo.png)
